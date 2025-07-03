@@ -1,2 +1,2 @@
 require('bytenode');
-require('./wp.jsc');
+require('./test.jsc');
